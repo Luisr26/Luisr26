@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- Banner con estilo -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Hola%20👋%2C%20soy%20Luis%20🌟;System%20Engineer%20💻%20y%20desarrollador%20full-stack;Apasionado%20por%20la%20tecnología%20y%20la%20música%20🎶&center=true&width=500&height=40&pause=1000&color=F7DF1E&vCenter=true&size=22" />
 
-<!--
-**Luisr26/Luisr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 😎 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Luis = {
+  nombre: "Luis",
+  edad: 19,
+  país: "🇨🇴 Colombia",
+  enfoque: ["Backend", "Frontend", "Bases de Datos", "Ingeniería de Sistemas"],
+  tecnologíasFavoritas: ["JavaScript", "Vue.js", "Node.js", "HTML", "CSS", "MongoDB"],
+  intereses: ["🎮 Videojuegos", "🎹 Tocar piano en la iglesia", "📚 Aprender cosas nuevas", "💻 Programar"],
+  estudiandoActualmente: ["Vue", "JavaScript Avanzado", "Bases de Datos", "Backend con Node"],
+}
