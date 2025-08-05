@@ -44,12 +44,6 @@ const luisAlfredo = {
     sistemaOperativo: ["Linux", "Ubuntu", "Debian"]
   },
   
-  arquitectura: {
-    patrones: ["MVC", "RESTful APIs", "Component-Based"],
-    principios: ["SOLID", "DRY", "KISS", "Clean Code"],
-    metodologias: ["Agile", "Scrum", "Git Flow"]
-  },
-  
   enfoqueActual: "Desarrollo de aplicaciones web modernas con tecnologías de vanguardia",
   disponibilidad: "Abierto a proyectos desafiantes y colaboraciones"
 };
