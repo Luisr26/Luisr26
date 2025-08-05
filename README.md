@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,30,36&height=220&section=header&text=CÓDIGO%20%7C%20INNOVACIÓN%20%7C%20ESCALABILIDAD&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front End%20%7C%20Desarrollador%20de%20Software&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,30,36&height=220&section=header&text=CÓDIGO%20%7C%20INNOVACIÓN%20%7C%20ESCALABILIDAD&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FrontEnd%20%7C%20Desarrollador%20de%20Software&descAlignY=60&descSize=18"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luisalfredo&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=VISTAS+DEL+PERFIL" alt="Profile Views" />
