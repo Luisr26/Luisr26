@@ -146,8 +146,7 @@ console.log("🚀 Ready to build amazing things!");
 |:---|:---|:---:|
 | **Systems Engineering** | Corporación Universitaria Latinoamericana | 2020 - 2025 |
 | **Software Programming Technician** | SENA - Colombia | 2021 - 2022 |
-| **Exploratory Data Analysis in Python** | SENA - Colombia | May - Jul 2023 |
-| **High School Diploma** | Institución Educativa Distrital San José | 2011 - 2022 |
+| **Exploratory Data Analysis in Python** | SENA - Colombia | May - Jul 2023 
 
 </div>
 
