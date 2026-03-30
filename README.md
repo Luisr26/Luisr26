@@ -220,7 +220,7 @@ Responsive landing page · Bootstrap 5.3 · Interactive animations · Store regi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-orozco-07ab5b208/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisoro009@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573045233125)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=astro&logoColor=64ffda)]([https://github.com/Luisr26/PortafolioOficialLuisDev](https://portafolio-oficial-luis-dev.vercel.app/))
+[![Portfolio](https://github.com/Luisr26/PortafolioOficialLuisDev)](https://portafolio-oficial-luis-dev.vercel.app/)
 
 <sub>Barranquilla, Colombia · luisoro009@gmail.com</sub>
 
