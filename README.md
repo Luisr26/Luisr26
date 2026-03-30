@@ -17,7 +17,7 @@
 ```typescript
 const luis = {
   role: "AI & Automation Developer",
-  companies: ["Blackbird Labs", "Retycol"],
+  companies: ["Blackbird Labs"],
   education: "Ingeniería de Sistemas — 6to Semestre",
   focus: [
     "Hyperautomation (n8n, Power Automate, MCP Servers)",
